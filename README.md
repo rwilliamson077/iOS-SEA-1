@@ -1,5 +1,8 @@
 # iOS Development in Swift (Seattle)
 
+## Announcements
+Welcome to the first class!
+
 ## Goals
 
 * Learn Swift and use it to build iOS apps
@@ -19,9 +22,6 @@
 ## Syllabus
 <a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Syllabus.pdf">Course Syllabus</a>
 
-## Announcements
-Welcome to the first class!
-
 ## Schedule
 
 No class on: Dec 24, Dec 29, Dec 31
@@ -36,7 +36,7 @@ No class on: Dec 24, Dec 29, Dec 31
     <td>Tue, Dec 1</td>
     <td>Introduction</td>
     <td>Getting Started</td>
-    <!-- <td><a href="https://github.com/ga-students/MOB-NYC-5/blob/master/Sessions/Session0">Getting Started</a><br> -->
+    <td><a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Sessions/Session0">Getting Started</a><br>
 </td>
   </tr>
   <tr>
