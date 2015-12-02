@@ -35,7 +35,6 @@ No class on: Dec 24, Dec 29, Dec 31
   <tr>
     <td>Tue, Dec 1</td>
     <td>Introduction</td>
-    <td>Getting Started</td>
     <td><a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Sessions/Session0">Getting Started</a><br>
 </td>
   </tr>
