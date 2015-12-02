@@ -1,7 +1,8 @@
 # iOS Development in Swift (Seattle)
 
 ## Announcements
-Welcome to the first class!
+Updated for the second class. Please look over the reading material before class. <br/>
+I've also included a Bonus Blog as extra material.
 
 ## Goals
 
@@ -20,11 +21,12 @@ Welcome to the first class!
 4. **Submitting Apps** - Put an app in the App Store.
 
 ## Materials
-<a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Syllabus.pdf">Course Syllabus</a>
+<a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Syllabus.pdf">Course Syllabus</a><br/>
 <a href="http://mobbook.generalassemb.ly/">Online Textbook</a>
 
 ## Office Hours
-Office hours will be held at the Uptown Espresso at 4th and Wall on Sundays from 3pm to 4pm. Feel free to swing by to ask question
+Office hours will be held at the Uptown Espresso at 4th and Wall on Sundays from 3pm to 4pm. <br/>
+Feel free to swing by to ask questions and/or work on homework!
 
 ## Schedule
 
@@ -75,15 +77,11 @@ No class on: Dec 24, Dec 29, Dec 31
     <!-- Readings -->
     <td><a href="http://mobbook.generalassemb.ly/week02/intro.html">Swift Basics</a></td>
     <!-- Bonus Blog -->
-    <td><a href="https://developer.apple.com/swift/blog/?id=29"></a>Apple Announcement for Swift 2.0</td>
+    <td><a href="https://developer.apple.com/swift/blog/?id=29">Apple Announcement for Swift 2.0</a></td>
     </tr>
 
-</td>
-<td><a href="http://mobbook.generalassemb.ly/github/intro.html">Intro to Git</a><br/>
-<a href="http://mobbook.generalassemb.ly/week01/intro.html">Course Introduction</a></td>
-<td><a href="https://littlebitesofcocoa.com/100-just-getting-started">Just Getting Started</a></td>
-  </tr>
 </table>
 
 ## Additional Resources
+<a href="http://mobbook.generalassemb.ly/github/intro.html">Intro to Git</a><br/>
 <a href="https://mhm5000.gitbooks.io/swift-cheat-sheet/content/basics/README.html">Swift Cheatsheet</a>
