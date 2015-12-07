@@ -41,7 +41,7 @@ No class on: Dec 24, Dec 29, Dec 31
     <!-- Unit -->
     <td>Intro to Nibs and Storyboards</td>
     <!-- Notes -->
-    <td> - <!-- <a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Sessions/Session1/Lesson02.pdf"> -->Scenes and Segues<!-- </a> --><br/>
+    <td> - <a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Sessions/Session1/Lesson02.pdf"> Scenes and Segues<br/>
     - <a href="https://github.com/ga-students/iOS-SEA-1/blob/master/Sessions/Session1/Assignment1.pdf">Assignment 1</a> (due <b>Tuesday December 8th</b>)</td>
     <!-- Readings -->
     <td><a href="http://mobbook.generalassemb.ly/week01/ib.html">Interface Builder Basics</a></td>
@@ -65,13 +65,13 @@ No class on: Dec 24, Dec 29, Dec 31
   <!-- Date -->
     <td>Thursday, Dec 10</td>
     <!-- Unit -->
-    <td>Intro to Swift</td>
+    <td>Intro to Functions</td>
     <!-- Notes -->
-    <td></td>
+    <td>Functions in Swift</td>
     <!-- Readings -->
-    <td><a href=""></a></td>
+    <td><a href="http://mobbook.generalassemb.ly/week02/intro.html">Swift Basics</a></td>
     <!-- Bonus Blog -->
-    <td><a href=""></a></td>
+    <td><a href="https://www.cs.utah.edu/~zachary/computing/lessons/uces-10/uces-10/node11.html">Why Use Functions?</a></td>
     </tr>
 
 </table>
