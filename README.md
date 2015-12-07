@@ -1,9 +1,9 @@
 # iOS Development in Swift (Seattle)
 
 ## Announcements
-Welcome back! Please make sure you have the first assignment committed and pushed to your github repository. If you turned in your assignment by Sunday at midnight, I should have posted comments on your work.
+Welcome back! Please make sure you have the first assignment completed. We'll go over how to submit homework first thing in Lecture 3.
 <br/><br/>
-Curious about how Git works? <a href="https://www.youtube.com/watch?v=xKVlZ3wFVKA&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD">Here</a> is a YouTube list 
+Curious about how Git works? <a href="https://www.youtube.com/watch?v=xKVlZ3wFVKA&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD">Here</a> is a YouTube list that can help.
 
 ## Office Hours
 Office hours will be held at the Uptown Espresso at 4th and Wall on Sundays from 3pm to 4pm. <br/>
